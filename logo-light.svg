@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="52" viewBox="0 0 230 52" role="img" aria-label="Windsor Water Damage Pros">
+<rect width="52" height="52" rx="12" fill="#E0A030"/>
+<path d="M26 8 C26 8 12.5 22.5 12.5 31.2 A13.5 13.5 0 0 0 39.5 31.2 C39.5 22.5 26 8 26 8Z" fill="#153027"/>
+<path d="M18.5 33.5 L26 26.2 L33.5 33.5" fill="none" stroke="#E0A030" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 33 V39.2 H31 V33" fill="none" stroke="#E0A030" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="62" y="25" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="23" fill="#FFFFFF">Windsor</text>
+<text x="62" y="43" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="12.2" letter-spacing="1.6" fill="#F1F6F2">WATER DAMAGE PROS</text>
+</svg>
